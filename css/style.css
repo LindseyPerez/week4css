@@ -1,0 +1,27 @@
+body {
+    position: center;
+    color: rgb(80, 36, 161);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border-style: dotted;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: larger;
+}
+
+#lisbon {
+    background-color: rgb(244, 236, 182);
+}
+        {
+    text-align: center;
+    color: blue;
+}
+
